@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+#<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # learn_algorithm_in_python
 ## 算法复杂度
 * 例如计算以下时间复杂度
@@ -15,3 +15,4 @@ def func():
  时间复杂度：为O(\\(n^2\\))  
  系数，非最高此项均可视为常数项
 ## 数据结构
+
