@@ -7,8 +7,8 @@
 def func():
     n = 10
     for i in range(n):
-		for j in range(i,n):
-	    	a = 1
+	for j in range(i,n):
+	    a = 1
 ```
 计算次数：
  \\(n+(n-1)+...+1=n*\frac{n+1}{2}=\frac{1}{2}n^2+\frac{n}{2}\\)  
